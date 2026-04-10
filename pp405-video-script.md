@@ -97,17 +97,31 @@
 
 ---
 
-### [CTA — 2:36–2:55]
+### [BRIDGE TO ULURX HAIR BOMB — 2:36–3:05]
 
-*[Presenter back to direct camera. Energy up slightly.]*
+*[Presenter back to direct camera. Energy up slightly. Product shot of UluRx Hair Bomb serum on screen.]*
 
-**"If you're dealing with hair loss right now and you don't want to wait 3 years for PP405 — comment HAIR BOMB below and I'll send you exactly what's available today that's actually backed by science."**
+**"If you're dealing with hair loss right now and you don't want to wait 3 years for PP405 — here's what's available today."**
+
+**"UluRx Hair Bomb is a prescription hair growth serum formulated around Latanoprost — a clinically proven ingredient — combined with up to three other targeted medications like Minoxidil. It's custom-compounded fresh for your scalp by board-certified dermatologists in a licensed U.S. pharmacy. No fillers. No off-the-shelf guesswork."**
+
+*[ON SCREEN TEXT: "UluRx Hair Bomb | Prescription-Grade | Custom Compounded"]*
+
+**"PP405 may be the future of hair regrowth. Hair Bomb is what's working right now."**
+
+---
+
+### [CTA — 3:05–3:15]
+
+*[Presenter, direct eye contact, close-up.]*
+
+**"Comment HAIR BOMB below and we'll show you exactly what's in it and whether it's right for you."**
 
 *[ON SCREEN TEXT: "💬 Comment HAIR BOMB to Get Started"]*
 
-**"And follow so you don't miss the update when PP405 hits Phase 3 — because that's going to be a big moment."**
+**"And follow — because when PP405 hits Phase 3, you'll want to know."**
 
-*[END CARD: Brand logo + "Comment HAIR BOMB"]*
+*[END CARD: UluRx logo + "💬 Comment HAIR BOMB"]*
 
 ---
 
@@ -120,8 +134,9 @@
 | Mechanism | 115 | ~35s |
 | The Study | 130 | ~40s |
 | Honest Verdict | 125 | ~38s |
-| CTA | 55 | ~16s |
-| **Total** | **~532** | **~2:56** |
+| Bridge — UluRx Hair Bomb | 90 | ~28s |
+| CTA | 30 | ~10s |
+| **Total** | **~597** | **~3:10** |
 
 ---
 
@@ -144,9 +159,11 @@
 >
 > Is it the breakthrough we've been waiting for? We broke down the science and the study honestly — watch to find out.
 >
-> 💬 Comment **HAIR BOMB** and we'll send you what's working right now while PP405 finishes its trials.
+> PP405 is real. It's promising. And it's years away.
 >
-> #HairLoss #PP405 #Alopecia #HairRegrowth #HairLossTreatment #HairScience #PelagePharma #Baldness #HairCare #HairLossCure
+> 💬 Comment **HAIR BOMB** and we'll show you what's working right now while the science catches up.
+>
+> #HairLoss #PP405 #Alopecia #HairRegrowth #HairLossTreatment #HairScience #HairBomb #UluRx #Baldness #HairCare
 
 ---
 
