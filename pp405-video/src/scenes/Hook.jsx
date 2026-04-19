@@ -10,7 +10,7 @@ export const Hook = () => {
     frame % 60,
     [0, 30, 60],
     [1, 1.04, 1],
-    { easing: Easing.inOut(Easing.sine) }
+    { easing: Easing.inOut(Easing.sin) }
   );
 
   return (

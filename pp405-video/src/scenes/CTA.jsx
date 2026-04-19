@@ -10,14 +10,14 @@ export const CTA = () => {
     frame % 60,
     [0, 30, 60],
     [0, -12, 0],
-    { easing: Easing.inOut(Easing.sine) }
+    { easing: Easing.inOut(Easing.sin) }
   );
 
   const glowSize = interpolate(
     frame % 90,
     [0, 45, 90],
     [1, 1.06, 1],
-    { easing: Easing.inOut(Easing.sine) }
+    { easing: Easing.inOut(Easing.sin) }
   );
 
   return (

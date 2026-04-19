@@ -31,7 +31,7 @@ export const HairBombBridge = () => {
     frame % 90,
     [0, 45, 90],
     [0.4, 0.9, 0.4],
-    { easing: Easing.inOut(Easing.sine) }
+    { easing: Easing.inOut(Easing.sin) }
   );
 
   return (
